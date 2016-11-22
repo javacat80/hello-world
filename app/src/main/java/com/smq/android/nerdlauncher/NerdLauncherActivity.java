@@ -10,10 +10,7 @@ public class NerdLauncherActivity extends BaseFragmentActivity {
         return null;
     }
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState){
-        super.onCreate(savedInstanceState);
-    }
+   
 
 
 
